@@ -1,0 +1,8 @@
+/Users/minhtintang/Desktop/aos/obj/Release/net5.0/Shop.csproj.AssemblyReference.cache
+/Users/minhtintang/Desktop/aos/obj/Release/net5.0/Shop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minhtintang/Desktop/aos/obj/Release/net5.0/Shop.AssemblyInfoInputs.cache
+/Users/minhtintang/Desktop/aos/obj/Release/net5.0/Shop.AssemblyInfo.cs
+/Users/minhtintang/Desktop/aos/obj/Release/net5.0/Shop.csproj.CoreCompileInputs.cache
+/Users/minhtintang/Desktop/aos/obj/Release/net5.0/Shop.MvcApplicationPartsAssemblyInfo.cache
+/Users/minhtintang/Desktop/aos/obj/Release/net5.0/Shop.RazorAssemblyInfo.cache
+/Users/minhtintang/Desktop/aos/obj/Release/net5.0/Shop.RazorAssemblyInfo.cs
